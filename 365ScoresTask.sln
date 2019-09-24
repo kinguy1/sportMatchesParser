@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiteParser", "SiteParseTest\SiteParser.csproj", "{99F1653F-160A-4987-9AFF-54CDE62F9296}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "365ScoresWebApi", "365WebApi\365ScoresWebApi.csproj", "{6EA1A96E-CA54-4B28-9D97-89A930A7EAEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{22374FC7-2521-44A3-8AA6-B2F1D550BBF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99F1653F-160A-4987-9AFF-54CDE62F9296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99F1653F-160A-4987-9AFF-54CDE62F9296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99F1653F-160A-4987-9AFF-54CDE62F9296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99F1653F-160A-4987-9AFF-54CDE62F9296}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EA1A96E-CA54-4B28-9D97-89A930A7EAEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EA1A96E-CA54-4B28-9D97-89A930A7EAEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EA1A96E-CA54-4B28-9D97-89A930A7EAEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EA1A96E-CA54-4B28-9D97-89A930A7EAEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22374FC7-2521-44A3-8AA6-B2F1D550BBF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22374FC7-2521-44A3-8AA6-B2F1D550BBF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22374FC7-2521-44A3-8AA6-B2F1D550BBF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22374FC7-2521-44A3-8AA6-B2F1D550BBF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D634A8D3-97E9-453A-9BE1-0719597149D6}
+	EndGlobalSection
+EndGlobal

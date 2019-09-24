@@ -1,0 +1,50 @@
+C:\Users\Guy.Gazit\Downloads\SiteParseTest\SiteParseTest\bin\Debug\SiteParseTest.exe.config
+C:\Users\Guy.Gazit\Downloads\SiteParseTest\SiteParseTest\bin\Debug\SiteParseTest.exe.manifest
+C:\Users\Guy.Gazit\Downloads\SiteParseTest\SiteParseTest\bin\Debug\SiteParseTest.application
+C:\Users\Guy.Gazit\Downloads\SiteParseTest\SiteParseTest\bin\Debug\SiteParseTest.exe
+C:\Users\Guy.Gazit\Downloads\SiteParseTest\SiteParseTest\bin\Debug\SiteParseTest.pdb
+C:\Users\Guy.Gazit\Downloads\SiteParseTest\SiteParseTest\bin\Debug\FluentSharp.HtmlAgilityPack.dll
+C:\Users\Guy.Gazit\Downloads\SiteParseTest\SiteParseTest\bin\Debug\FluentSharp.Xml.dll
+C:\Users\Guy.Gazit\Downloads\SiteParseTest\SiteParseTest\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Guy.Gazit\Downloads\SiteParseTest\SiteParseTest\bin\Debug\Models.dll
+C:\Users\Guy.Gazit\Downloads\SiteParseTest\SiteParseTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Guy.Gazit\Downloads\SiteParseTest\SiteParseTest\bin\Debug\O2_FluentSharp_CoreLib.dll
+C:\Users\Guy.Gazit\Downloads\SiteParseTest\SiteParseTest\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Guy.Gazit\Downloads\SiteParseTest\SiteParseTest\bin\Debug\Models.pdb
+C:\Users\Guy.Gazit\Downloads\SiteParseTest\SiteParseTest\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Guy.Gazit\Downloads\SiteParseTest\SiteParseTest\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Guy.Gazit\Downloads\SiteParseTest\SiteParseTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Guy.Gazit\Downloads\SiteParseTest\SiteParseTest\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Users\Guy.Gazit\Downloads\SiteParseTest\SiteParseTest\obj\Debug\SiteParser.csprojAssemblyReference.cache
+C:\Users\Guy.Gazit\Downloads\SiteParseTest\SiteParseTest\obj\Debug\SiteParser.csproj.CoreCompileInputs.cache
+C:\Users\Guy.Gazit\Downloads\SiteParseTest\SiteParseTest\obj\Debug\SiteParseTest.TrustInfo.xml
+C:\Users\Guy.Gazit\Downloads\SiteParseTest\SiteParseTest\obj\Debug\SiteParseTest.exe.manifest
+C:\Users\Guy.Gazit\Downloads\SiteParseTest\SiteParseTest\obj\Debug\SiteParseTest.application
+C:\Users\Guy.Gazit\Downloads\SiteParseTest\SiteParseTest\obj\Debug\SiteParser.csproj.CopyComplete
+C:\Users\Guy.Gazit\Downloads\SiteParseTest\SiteParseTest\obj\Debug\SiteParseTest.exe
+C:\Users\Guy.Gazit\Downloads\SiteParseTest\SiteParseTest\obj\Debug\SiteParseTest.pdb
+C:\New folder\SiteParseTest\bin\Debug\SiteParseTest.exe.config
+C:\New folder\SiteParseTest\bin\Debug\SiteParseTest.exe.manifest
+C:\New folder\SiteParseTest\bin\Debug\SiteParseTest.application
+C:\New folder\SiteParseTest\bin\Debug\SiteParseTest.exe
+C:\New folder\SiteParseTest\bin\Debug\SiteParseTest.pdb
+C:\New folder\SiteParseTest\bin\Debug\FluentSharp.HtmlAgilityPack.dll
+C:\New folder\SiteParseTest\bin\Debug\FluentSharp.Xml.dll
+C:\New folder\SiteParseTest\bin\Debug\HtmlAgilityPack.dll
+C:\New folder\SiteParseTest\bin\Debug\Models.dll
+C:\New folder\SiteParseTest\bin\Debug\Newtonsoft.Json.dll
+C:\New folder\SiteParseTest\bin\Debug\O2_FluentSharp_CoreLib.dll
+C:\New folder\SiteParseTest\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\New folder\SiteParseTest\bin\Debug\Models.pdb
+C:\New folder\SiteParseTest\bin\Debug\HtmlAgilityPack.pdb
+C:\New folder\SiteParseTest\bin\Debug\HtmlAgilityPack.xml
+C:\New folder\SiteParseTest\bin\Debug\Newtonsoft.Json.xml
+C:\New folder\SiteParseTest\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\New folder\SiteParseTest\obj\Debug\SiteParser.csprojAssemblyReference.cache
+C:\New folder\SiteParseTest\obj\Debug\SiteParser.csproj.CoreCompileInputs.cache
+C:\New folder\SiteParseTest\obj\Debug\SiteParseTest.TrustInfo.xml
+C:\New folder\SiteParseTest\obj\Debug\SiteParseTest.exe.manifest
+C:\New folder\SiteParseTest\obj\Debug\SiteParseTest.application
+C:\New folder\SiteParseTest\obj\Debug\SiteParser.csproj.CopyComplete
+C:\New folder\SiteParseTest\obj\Debug\SiteParseTest.exe
+C:\New folder\SiteParseTest\obj\Debug\SiteParseTest.pdb
